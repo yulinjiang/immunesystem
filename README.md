@@ -1,4 +1,4 @@
-Introduction
+Parallel immune genetic algorithm
 ------------
   In the process of MATLAB simulation experiment,  MATLAB can’t run parallel in the Windows operation system.
 Besides,  the speed of computation has not reached acceptable level.
