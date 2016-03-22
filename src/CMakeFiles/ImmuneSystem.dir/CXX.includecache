@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yulinjiang/ImmuneSystem/include/fitness.h
+individuals.h
+/home/yulinjiang/ImmuneSystem/include/individuals.h
+
+/home/yulinjiang/ImmuneSystem/include/individuals.h
+
+/home/yulinjiang/ImmuneSystem/src/fitness.cpp
+../include/fitness.h
+/home/yulinjiang/ImmuneSystem/include/fitness.h
+
